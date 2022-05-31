@@ -1,0 +1,3 @@
+[submodule "libs/Glacier"]
+	path = libs/Glacier
+	url = git@github.com:FrostlessNetwork/Glacier.git

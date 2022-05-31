@@ -1,0 +1,14 @@
+name: DaBridge
+version: '${version}'
+main: network.frostless.dabridge.TheBridgePlugin
+api-version: 1.18
+libraries:
+  - com.zaxxer:HikariCP:5.0.0
+  - org.postgresql:postgresql:42.3.3
+  - dev.triumphteam:triumph-gui:3.1.2
+  - com.github.Revxrsal.Lamp:bukkit:3.0.4
+  - com.github.Revxrsal.Lamp:common:3.0.4
+depend:
+  - Frostbite
+  - SlimeWorldManager
+  - NBTAPI
